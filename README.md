@@ -50,6 +50,8 @@ The toolhead probably took the longest to design, both because I was learning ho
 <img src="/Pictures/Toolhead ISO.PNG" alt="Toolhead Isometric"/>
 <img src="/Pictures/Toolhead-Rear.PNG" alt="Toolhead Rear"/>
 
+The toolhead is intended to work with the Sherpa Mini extruder. CAD for that extruder is not in this repository, and can instead be found in its own repository, linked above.
+
 The v0 and DICE had somewhat lackluster cooling solutions for both the hotend and part cooling. With my design, I managed to squeeze in dual 4010 blower fans for part cooling, as well as a 3010 axial fan with an unconstricted flow path for hotend cooling (This combined with a genuine mosquito should yield no problems with heat creep.) 
 
 <img src="/Pictures/Toolhead-Cross-Section.PNG" alt="Part Cooling Cross Section"/>
