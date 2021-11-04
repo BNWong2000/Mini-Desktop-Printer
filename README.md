@@ -1,10 +1,14 @@
 # Mini-Desktop-Printer
 A Miniature Desktop 3D Printer based off of the DICE 3D printer. 
 
+
+
 *Note - This printer is still a WIP. Some parts are incomplete (notably no power input, the enclosure is incomplete, the electronics cooling is not yet implemented, and cable management has not yet been fully implemented)*
 *Note also that the model is missing certain components (such as belts and controller board), due to added complexity. These may be added in the future.* 
 
-PICTURE GOES HERE
+I am happy to answer any questions relating to this printer. The best way to contact me is my discord: TKDonuts#5741
+
+<img src="/Pictures/ISO-view.PNG" alt="Printer View"/>
 
 ## Specifications:
  - 210mm x 210mm x ~326mm (X x Y x Z) Outer Dimensions (optional enclosure adds to this)
