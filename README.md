@@ -58,7 +58,7 @@ The v0 and DICE had somewhat lackluster cooling solutions for both the hotend an
 
 <img src="/Pictures/Unconstricted HE cooling.PNG" alt="Uncontricted Hotend Cooling"/>
 
-At the moment, the toolhead is only designed for a genuine mosquito hotend. Clone mosquitos may fit, however many are not compatible with the mosquito net shown in figure 4. I can really only recommend the genuine mosquito (plus you'll be supporting the original designers). 
+At the moment, the toolhead is only designed for a genuine mosquito hotend. Clone mosquitos may fit, however many are not compatible with the mosquito net shown below. I can really only recommend the genuine mosquito (plus you'll be supporting the original designers). 
 
 <img src="/Pictures/Mosquito-Net.PNG" alt="Mosquito Net"/>
 
